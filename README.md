@@ -1,4 +1,4 @@
-# Real World Restful Api using Laravel
+# iGospel - The smart church
 
 ## Installation
 * Clone Repo
